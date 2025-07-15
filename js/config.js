@@ -42,7 +42,7 @@ const API_SITES = {
      xiaomaomi: {
          api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
          name: '小猫咪资源',
-     },
+    },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
